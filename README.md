@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Hiran Das <p><a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-navy"></a></p></h2> 
+<h2 align="center">👋 Hi, I’m Krishna <p><a href="https://github.com/zero-death27"><img alt="Static Badge" src="https://img.shields.io/badge/aka-ZERO_DEATH-navy"></a></p></h2> 
 <h2 align="center">
 “All this – it’s not me, inside, I am … more.” <a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="logo-batsymbol.gif"></a>
 <p></p><p><img alt="Static Badge" src="https://img.shields.io/badge/Engineer-Software%2FAutomation-darkred">
